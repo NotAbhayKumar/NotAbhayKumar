@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/notabhaykumar" target="blank"><img src="https://img.shields.io/twitter/follow/notabhaykumar?logo=twitter&style=for-the-badge" alt="notabhaykumar" /></a> </p>
 
-- 🌱 I’m currently learning **React & Angular**
-
 - 👯 I’m looking to collaborate on **open-source projects related to Web Development and Game Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotAbhayKumar](https://github.com/NotAbhayKumar)
